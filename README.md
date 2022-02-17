@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>  
 ########################################################################################
 #                                                                                      #
 #  /$$$$$$$                 /$$                 /$$$$$$$                               #
@@ -12,7 +16,7 @@
 #                             |  $$$$$$/                         |  $$$$$$/            #
 #                              \______/                           \______/             #
 ########################################################################################
-
+</p>
 ### Hi there 
 <!--
 **ibranad/ibranad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
