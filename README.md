@@ -28,10 +28,10 @@
 - ## Hi there, I'm Oussama Rbiay [Orbiay] 👋 
 
 
-![](https://badge.mediaplus.ma/binary/ibnada)
+![](https://badge.mediaplus.ma/binary/ibranad)
 
 
-[![ibnada GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnada&show_icons=true&theme=radical)](https://github.com/ibnada)
+[![ibnada GitHub stats](https://github-readme-stats.vercel.app/api?username=ibranad&show_icons=true&theme=radical)](https://github.com/ibranad)
 
-[![ibnada Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnada&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)](https://github.com/ibnada)
-![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ibnada.svg?style=social&label=Follow%20%40ibnada)
+[![ibnada Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibranad&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)](https://github.com/ibranad)
+![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ibranad.svg?style=social&label=Follow%20%40ibranad)
