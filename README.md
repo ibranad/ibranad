@@ -28,7 +28,7 @@
 - ## Hi there, I'm Oussama Rbiay [Orbiay] 👋 
 
 
-![](https://badge.mediaplus.ma/binary/ibranad)
+![](https://badge.mediaplus.ma/binary/ibnada)
 
 
 [![ibnada GitHub stats](https://github-readme-stats.vercel.app/api?username=ibranad&show_icons=true&theme=radical)](https://github.com/ibranad)
