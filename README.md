@@ -34,4 +34,4 @@
 [![ibnada GitHub stats](https://github-readme-stats.vercel.app/api?username=ibranad&show_icons=true&theme=radical)](https://github.com/ibranad)
 
 [![ibnada Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibranad&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)](https://github.com/ibranad)
-![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ibranad.svg?style=social&label=Follow%20%40ibranad)
+![Twitter]<a href="https://twitter.com/Hee0Gee?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Hee0Gee</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
