@@ -15,7 +15,7 @@
 ########################################################################################
 </pre>
 
-#Here are some ideas to get you started:
+< !╌ #Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -25,6 +25,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+╌>
 - ## Hi there, I'm Ibrahim Nada [Ibnada] 👋 
 
 
